@@ -2,6 +2,7 @@
 
 An interactive Power BI dashboard analyzing company-wide financial performance — revenue, profitability, and margin trends — built on a proper data model with a custom date table, table relationships, and DAX measures.
 
+![Dashboard Preview](dashboard3.png)
 ![Dashboard Preview](dashboard2.png)
 
 ## Business Problem
